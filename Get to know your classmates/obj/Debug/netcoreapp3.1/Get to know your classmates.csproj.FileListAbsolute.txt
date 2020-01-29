@@ -1,0 +1,11 @@
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.exe
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.deps.json
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.runtimeconfig.json
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.runtimeconfig.dev.json
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.dll
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\bin\Debug\netcoreapp3.1\Get to know your classmates.pdb
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.csprojAssemblyReference.cache
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.AssemblyInfoInputs.cache
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.AssemblyInfo.cs
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.dll
+C:\Users\nayan\source\repos\Lab 8 Get to know your classmates\Get to know your classmates\obj\Debug\netcoreapp3.1\Get to know your classmates.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Get to know your classmates/1.0.0": {
+        "runtime": {
+          "Get to know your classmates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Get to know your classmates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
